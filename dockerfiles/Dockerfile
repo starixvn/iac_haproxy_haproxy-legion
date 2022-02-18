@@ -1,7 +1,7 @@
 FROM registry.nexdev.net:5050/docker/haproxy/haproxy-debian:2.4-test
 ARG ENV
 RUN mkdir -p /root/.ssh/
-ADD settings/key /root/.ssh/
+ADD dockerfiles/rsa /root/.ssh/
 RUN chmod -R 600 /root/.ssh/
 RUN ssh-keyscan -t rsa gitlab.nexdev.net >> /root/.ssh/known_hosts
 RUN ls -l /root/.ssh/
