@@ -1,4 +1,4 @@
-FROM registry.nexdev.net:5050/docker/haproxy/haproxy-debian:2.4-test AS base
+FROM registry.nexdev.net:5050/docker/haproxy/haproxy-debian:2.4-test
 ARG ENV
 RUN mkdir -p /root/.ssh/
 ADD repo-key /root/.ssh/
