@@ -1,1 +1,4 @@
-#
+#Legion
+analytics.sportsfun.app legion_lap_analytics_api_nodes
+pa.sportsfun.app legion_lap_player_admin_nodes
+bt.sportsfun.app legion_lap_bet_ticket_nodes
