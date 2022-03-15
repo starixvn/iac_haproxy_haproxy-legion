@@ -1,5 +1,5 @@
 #Legion
-lapext1.playthefun.com legion_lap_ext_SIT_1_nodes
-lappa1.playthefun.com legion_lap_player_admin_SIT_1_nodes
-lapbt1.playthefun.com legion_lap_bet_ticket_SIT_1_nodes
-lapanalytics.playthefun.com legion_analytics_api_SIT_nodes
+lapext1.playthefun.com legion_lap_ext_SIT_1_be
+lappa1.playthefun.com legion_lap_player_admin_SIT_1_be
+lapbt1.playthefun.com legion_lap_bet_ticket_SIT_1_be
+lapanalytics.playthefun.com legion_analytics_api_SIT_be
