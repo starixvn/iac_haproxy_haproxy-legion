@@ -1,8 +1,8 @@
 #Legion
-aff-b2c.nexdev.net legion_aff_n88_nodes
-aff-athena.nexdev.net sparta_aff_athena_nodes
-aff-12bet.nexdev.net sparta_aff_12bet_nodes
-aff-b2cjob.nexdev.net legion_aff_n88_jobs_nodes
+aff-b2c.nexdev.net legion_aff_n88_LOCAL_be
+aff-athena.nexdev.net sparta_aff_athena_LOCAL_be
+aff-12bet.nexdev.net sparta_aff_12bet_LOCAL_be
+aff-b2cjob.nexdev.net legion_aff_n88_jobs_LOCAL_be
 la.nexdev.net sparta_la_nodes
 la1.nexdev.net sparta_la1_nodes
 la2.nexdev.net sparta_la2_nodes
