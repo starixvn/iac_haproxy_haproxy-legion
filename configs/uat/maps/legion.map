@@ -1,7 +1,10 @@
-#domain backend
+#Legion
 lapanalytics1.starixuat.com legion_lap_analytics_api_UAT_1_be
 lapext1.starixuat.com legion_lap_ext_UAT_1_be
 lappa1.starixuat.com legion_lap_player_admin_UAT_1_be
 lapbt1.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
 lapbt.starixuat.com legion_lap_bet_ticket_UAT_be
+#Legion Internal
+lap_identity_server.starixuat.com legion_lap_identity_server_UAT_be
+lap_report_api.starixuat.com legion_lap_report_api_UAT_be
