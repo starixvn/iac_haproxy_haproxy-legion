@@ -8,3 +8,6 @@ lapbt.starixuat.com legion_lap_bet_ticket_UAT_be
 #Legion Internal
 lap_identity_server.starixuat.com legion_lap_identity_server_UAT_be
 lap_report_api.starixuat.com legion_lap_report_api_UAT_be
+lap_identity_server1.starixuat.com legion_lap_identity_server_UAT_1_be
+lap_identity_server2.starixuat.com legion_lap_identity_server_UAT_2_be
+lap_report_api1.starixuat.com legion_lap_report_api_UAT_1_be
