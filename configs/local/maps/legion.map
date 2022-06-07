@@ -11,9 +11,9 @@ lap.nexdev.net sparta_lap_LOCAL_be
 lap-betlist.nexdev.net sparta_lap_betlist_LOCAL_be
 lap-report.nexdev.net sparta_lap_report_LOCAL_be
 lap-setting.nexdev.net sparta_lap_setting_LOCAL_be
-lap-ext.nexdev.net sparta_lap_extservice_LOCAL_be
-lap-ext2.nexdev.net sparta_lap_extservice2_LOCAL_be
-lap-ext3.nexdev.net sparta_lap_extservice3_LOCAL_be
+lap-ext.nexdev.net legion_lap_ext_LOCAL_be
+lap-ext2.nexdev.net legion_lap_ext_LOCAL_2_be
+lap-ext3.nexdev.net legion_lap_ext_LOCAL_3_be
 lap-ext4.nexdev.net sparta_lap_extservice4_LOCAL_be
 lap-ext5.nexdev.net sparta_lap_extservice5_LOCAL_be
 lap-lg.nexdev.net sparta_lap_lgapi_LOCAL_be
