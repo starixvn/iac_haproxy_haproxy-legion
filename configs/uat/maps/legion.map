@@ -9,7 +9,7 @@ lapbt1.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
 lapbt.starixuat.com legion_lap_bet_ticket_UAT_be
 lbs.starixuat.com legion_la_licenseebillingsystem_UAT_be
-lap-cronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
+lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
 #Legion Internal
 lap_identity_server.starixuat.com legion_lap_identity_server_UAT_be
 lap_report_api.starixuat.com legion_lap_report_api_UAT_be
