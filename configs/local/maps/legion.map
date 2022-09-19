@@ -43,5 +43,6 @@ lap-report1.nexdev.net legion_lap_report_api_LOCAL_1_be
 lap-analytics1.nexdev.net legion_lap_analytics_api_LOCAL_1_be
 aff-b2cjob.nexdev.net legion_aff_n88_jobs_LOCAL_be
 lbs.nexdev.net legion_la_licenseebillingsystem_LOCAL_be
+lbs1.nexdev.net legion_la_licenseebillingsystem_LOCAL_1_be
 lap-cronjobs.nexdev.net legion_lap_cron_jobs_LOCAL_be
 lap-cronjobs1.nexdev.net legion_lap_cron_jobs_LOCAL_1_be
