@@ -18,5 +18,7 @@ lap_identity_server1.starixuat.com legion_lap_identity_server_UAT_1_be
 lap_identity_server2.starixuat.com legion_lap_identity_server_UAT_2_be
 lap_report_api1.starixuat.com legion_lap_report_api_UAT_1_be
 int_lap_logging.starixuat.com LAP_LOGGING_be
-int_lap_lg.starixuat.com LAP_LGAPI_be
-int_lap_betlist.starixuat.com LAP_BETLIST_be
+#int_lap_lg.starixuat.com LAP_LGAPI_be
+#int_lap_betlist.starixuat.com LAP_BETLIST_be
+lap_betlist.starixuat.com LAP_BETLIST_be
+lap_lg_api.starixuat.com LAP_LGAPI_be
