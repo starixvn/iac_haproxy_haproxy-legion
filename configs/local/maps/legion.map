@@ -21,7 +21,7 @@ lap-logging.nexdev.net sparta_lap_logging_LOCAL_be
 b2c.nexdev.net legion_n88_lap_LOCAL_be
 b2c-betlist.nexdev.net legion_n88_lap_betlist_LOCAL_be
 b2c-report.nexdev.net legion_n88_lap_report_LOCAL_be
-b2c-ext.nexdev.net legion_n88_lap_statement_LOCAL_be
+b2c-ext.nexdev.net legion_n88_ext_LOCAL_be
 lrf.nexdev.net sparta_lrf_LOCAL_be
 lm.nexdev.net sparta_nap_lm_LOCAL_be
 ba.nexdev.net sparta_nap_ba_LOCAL_be
