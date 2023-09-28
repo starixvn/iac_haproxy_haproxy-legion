@@ -5,6 +5,7 @@ bt.amazzu.com legion_lap_bet_ticket_PROD_be
 analytics.amazzu.com legion_lap_analytics_api_PROD_be
 lbs.oneops.net legion_la_licenseebillingsystem_PROD_be
 ext.amazzu.com legion_lap_ext_PROD_be
+extstaging.amazzu.com legion_lap_ext_PROD_1_be
 lapcronjobs.oneops.net legion_lap_cron_jobs_PROD_be
 lapcronjobs1.oneops.net legion_lap_cron_jobs_PROD_1_be
 #Legion Internal
