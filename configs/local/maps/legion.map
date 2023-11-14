@@ -1,5 +1,5 @@
 lap-report2.nexdev.net legion_lap_report_api_LOCAL_2_be
-lap-report-client-app.nexdev.net legion_lap_report_client_app_LOCAL_be
+lap-report.nexdev.net legion_lap_report_client_app_LOCAL_be
 lap-analytics.nexdev.net legion_lap_analytics_api_LOCAL_be
 lbs2.nexdev.net legion_la_licenseebillingsystem_LOCAL_2_be
 aff12bcronjobs.nexdev.net legion_aff_12b_cron_jobs_LOCAL_be
@@ -50,7 +50,6 @@ lap-playeradmin3.nexdev.net legion_lap_player_admin_LOCAL_3_be
 lap-identityserver1.nexdev.net legion_lap_identity_server_LOCAL_1_be
 lap-identityserver.nexdev.net legion_lap_identity_server_LOCAL_be
 lap-ext1.nexdev.net legion_lap_ext_LOCAL_1_be
-lap-report.nexdev.net legion_lap_report_api_LOCAL_be
 lap-report1.nexdev.net legion_lap_report_api_LOCAL_1_be
 lap-analytics1.nexdev.net legion_lap_analytics_api_LOCAL_1_be
 aff-b2cjob.nexdev.net legion_aff_n88_jobs_LOCAL_be
