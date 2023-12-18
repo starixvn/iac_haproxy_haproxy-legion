@@ -8,3 +8,7 @@ la.byb6181.com legion_la_KLDR_be
 lm.byb6181.com legion_lm_KLDR_be
 ba.byb6181.com legion_ba_KLDR_be
 oic.byb6181.com legion_oic_KLDR_be
+lrf.byb6181.com legion_lrf_KLDR_be
+lap-static.byb6181.com legion_static_rs_KLDR_be
+#internal domains
+oicapi.gamora.prod legion_oic_api_KLDR_be
