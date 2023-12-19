@@ -13,3 +13,5 @@ lrf.byb6181.com legion_lrf_KLDR_be
 lap-static.byb6181.com legion_static_rs_KLDR_be
 #internal domains
 oicapi.gamora.prod legion_oic_api_KLDR_be
+lap-betlist.gamora.prod legion_lap_betlist_KLDR_be
+lap-lgapi.gamora.prod legion_lap_lgapi_KLDR_be
