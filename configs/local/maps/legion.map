@@ -1,3 +1,4 @@
+ext12b.nexdev.net legion_12b_ext_api_LOCAL_be
 aff-ybjobs.nexdev.net legion_aff_yb_cronjob_LOCAL_be
 aff-ybwebapi.nexdev.net legion_aff_yb_webapi_LOCAL_be
 lap-playeradmin3.nexdev.net legion_lap_player_admin_LOCAL_3_be
@@ -17,8 +18,6 @@ aff12bcronjobs.nexdev.net legion_aff_12b_cron_jobs_LOCAL_be
 aff12bjob.nexdev.net legion_aff_12b_job_LOCAL_be
 aff12bjob.nexdev.net legion_aff_12b_api_LOCAL_be
 ext12bjob.nexdev.net legion_12b_ext_job_LOCAL_be
-ext12bapi.nexdev.net legion_12b_ext_api_LOCAL_be
-ext12b.nexdev.net legion_12b_ext_LOCAL_be
 ##Legion
 aff-b2c.nexdev.net legion_aff_n88_LOCAL_be
 aff-athena.nexdev.net sparta_aff_athena_LOCAL_be
