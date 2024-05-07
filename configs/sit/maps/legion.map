@@ -1,3 +1,6 @@
+lapext2.playonesit.com legion_lap_ext_SIT_2_be
+lapext1.playonesit.com legion_lap_ext_SIT_1_be
+lapext.playonesit.com legion_lap_ext_SIT_be
 lappa1.playonesit.com legion_lap_player_admin_SIT_1_be
 lappa.playonesit.com legion_lap_player_admin_SIT_be
 lapbt1.playonesit.com legion_lap_bet_ticket_SIT_1_be
@@ -11,8 +14,5 @@ lap-report.playthefun.com legion_lap_report_client_app_SIT_be
 lap-report-internal.playthefun.com legion_lap_report_client_app_SIT_be
 lapbt2.playthefun.com legion_lap_bet_ticket_SIT_2_be
 ####Legion
-lapext.playthefun.com legion_lap_ext_SIT_be
-lapext1.playthefun.com legion_lap_ext_SIT_1_be
-lapext2.playthefun.com legion_lap_ext_SIT_2_be
 lapanalytics.playthefun.com legion_analytics_api_SIT_be
 lapcronjobs.playthefun.com legion_lap_cron_jobs_SIT_be
