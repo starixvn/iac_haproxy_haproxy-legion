@@ -34,3 +34,9 @@ int_lap_logging.starixuat.com LAP_LOGGING_be
 lap_betlist.starixuat.com LAP_BETLIST_be
 lap_lg_api.starixuat.com LAP_LGAPI_be
 n88api.starixuat.com N88_API_be
+####SabaDemo for Auditing
+lappa.saba-gli.com legion_lap_player_admin_UAT_be
+analyticslap.saba-gli.com legion_lap_analytics_api_UAT_be
+lapext.saba-gli.com legion_lap_ext_UAT_be
+lapbt.saba-gli.com legion_lap_bet_ticket_UAT_be
+lap-report.saba-gli.com legion_lap_report_client_app_UAT_be
