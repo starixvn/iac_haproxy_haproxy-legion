@@ -1,3 +1,4 @@
+lap-playeradmin3.nexdev.net legion_lap_player_admin_LOCAL_3_be
 lap-betticket3.nexdev.net legion_lap_bet_ticket_LOCAL_3_be
 deposit-api-gw.nexdev.net legion_licensee_deposit_api_gateway_LOCAL_be
 lap-betticket4.nexdev.net legion_lap_bet_ticket_LOCAL_4_be
@@ -12,7 +13,6 @@ int12bauth.nexdev.net legion_12b_int_api_auth_LOCAL_be
 lap-analytics2.nexdev.net legion_lap_analytics_api_LOCAL_2_be
 aff-ybjobs.nexdev.net legion_aff_yb_cronjob_LOCAL_be
 aff-ybwebapi.nexdev.net legion_aff_yb_webapi_LOCAL_be
-lap-playeradmin3.nexdev.net legion_lap_player_admin_LOCAL_3_be
 lap-betticket2.nexdev.net legion_lap_bet_ticket_LOCAL_2_be
 lap-report-fe1.nexdev.net legion_lap_report_client_app_LOCAL_1_be
 lap-report5.nexdev.net legion_lap_report_api_LOCAL_5_be
