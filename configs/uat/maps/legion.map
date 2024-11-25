@@ -1,3 +1,5 @@
+extb2c.starixuat.com legion_n88_ext_UAT_be
+intb2c-uat.nebula.prod legion_n88_ext_UAT_be
 lapbt3.starixuat.com legion_lap_bet_ticket_UAT_3_be
 lappa2.starixuat.com legion_lap_player_admin_UAT_2_be
 lapbt2.starixuat.com legion_lap_bet_ticket_UAT_2_be
@@ -15,7 +17,6 @@ lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
 lap-report-api2-uat.nebula.prod legion_lap_report_api_UAT_2_be
 lbs1.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
-extb2c.starixuat.com legion_n88_ext_UAT_be
 #####Legion
 lapanalytics1.starixuat.com legion_lap_analytics_api_UAT_1_be
 lapext1.starixuat.com legion_lap_ext_UAT_1_be
