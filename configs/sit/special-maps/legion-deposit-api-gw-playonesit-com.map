@@ -1,2 +1,2 @@
-^/main(/.*)?$ legion_licensee_deposit_api_gateway_SIT_path_be
 ^/v1(/.*)?$ legion_licensee_deposit_api_gateway_SIT_1_path_be
+^/main(/.*)?$ legion_licensee_deposit_api_gateway_SIT_path_be
