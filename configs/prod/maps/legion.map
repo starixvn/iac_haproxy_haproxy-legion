@@ -1,7 +1,8 @@
+deposit-api-gw.oneops.net legion_licensee_deposit_api_gateway_PROD_be
+deposit-api-gw.nebula.prod legion_licensee_deposit_api_gateway_PROD_be
 12b-cronjobs.oneops.net legion_12b_cronjobs_v2_PROD_be
 extb2c.amazzu.com legion_n88_ext_PROD_be
 intb2c.nebula.prod legion_n88_ext_PROD_be
-deposit-api-gw.oneops.net legion_licensee_deposit_api_gateway_PROD_be
 ext12b.amazzu.com legion_12b_ext_api_gateway_PROD_be
 report.amazzu.com legion_lap_report_client_app_PROD_be
 report-internal.amazzu.com legion_lap_report_client_app_PROD_be
