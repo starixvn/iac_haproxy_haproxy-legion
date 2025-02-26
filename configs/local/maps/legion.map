@@ -1,3 +1,4 @@
+lap-betticket5.nexdev.net legion_lap_bet_ticket_LOCAL_5_be
 lap-identityserver2.nexdev.net legion_lap_identity_server_LOCAL_2_be
 lap-betticket4.nexdev.net legion_lap_bet_ticket_LOCAL_4_be
 deposit-setting-api1.nexdev.net legion_licensee_deposit_setting_api_LOCAL_1_be
@@ -14,7 +15,6 @@ aff-12bapi.nexdev.net legion_12b_ext_api_v2_LOCAL_be
 aff-12bcronjobs.nexdev.net legion_12b_cronjobs_v2_LOCAL_be
 deposit-player-api.nexdev.net legion_licensee_deposit_player_api_LOCAL_be
 lap-betticket3.nexdev.net legion_lap_bet_ticket_LOCAL_3_be
-lap-betticket5.nexdev.net legion_lap_bet_ticket_LOCAL_5_be
 lap-playeradmin3.nexdev.net legion_lap_player_admin_LOCAL_3_be
 lap-playeradmin4.nexdev.net legion_lap_player_admin_LOCAL_4_be
 deposit-api1.nexdev.net legion_licensee_deposit_api_LOCAL_1_be
