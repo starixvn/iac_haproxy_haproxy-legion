@@ -1,3 +1,4 @@
+lap-ext5.nexdev.net legion_lap_ext_LOCAL_5_be
 lap-betlistapi5.nexdev.net legion_lap_betlist_api_LOCAL_5_be
 lap-report-fe5.nexdev.net legion_lap_report_client_app_LOCAL_5_be
 aff-12bwebapi.nexdev.net legion_12b_webapi_v2_LOCAL_be
@@ -68,7 +69,6 @@ lap-setting.nexdev.net sparta_lap_setting_LOCAL_be
 lap-ext.nexdev.net legion_lap_ext_LOCAL_be
 lap-ext2.nexdev.net legion_lap_ext_LOCAL_2_be
 lap-ext3.nexdev.net legion_lap_ext_LOCAL_3_be
-lap-ext5.nexdev.net sparta_lap_extservice5_LOCAL_be
 lap-lg.nexdev.net sparta_lap_lgapi_LOCAL_be
 lap-analytic.nexdev.net sparta_lap_analyticapi_LOCAL_be
 lap-logging.nexdev.net sparta_lap_logging_LOCAL_be
