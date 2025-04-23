@@ -1,3 +1,4 @@
+lap-betlist.gamora.prod legion_lap_betlist_api_KLDR_be
 deposit-api-gw.byb6181.com legion_licensee_deposit_api_gateway_KLDR_be
 deposit-api-gw.gamora.prod legion_licensee_deposit_api_gateway_KLDR_be
 lap-report.byb6181.com legion_lap_report_client_app_KLDR_be
@@ -18,7 +19,6 @@ lrf.byb6181.com legion_lrf_KLDR_be
 lap-static.byb6181.com legion_static_rs_KLDR_be
 #internal domains
 oicapi.gamora.prod legion_oic_api_KLDR_be
-lap-betlist.gamora.prod legion_lap_betlist_KLDR_be
 lap-lgapi.gamora.prod legion_lap_lgapi_KLDR_be
 lap-extservice.gamora.prod legion_lap_ext_KLDR_be
 lap-bt.gamora.prod legion_lap_bet_ticket_KLDR_be
