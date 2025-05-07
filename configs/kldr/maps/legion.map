@@ -22,3 +22,11 @@ oicapi.gamora.prod legion_oic_api_KLDR_be
 lap-lgapi.gamora.prod legion_lap_lgapi_KLDR_be
 lap-extservice.gamora.prod legion_lap_ext_KLDR_be
 lap-bt.gamora.prod legion_lap_bet_ticket_KLDR_be
+n8b-betlist.starix-dr.gamora.prod legion_n8b_betlist_site_KLDR_be
+n8g-betlist.starix-dr.gamora.prod legion_n8g_betlist_site_KLDR_be
+n88-betlist.starix-dr.gamora.prod legion_n88_betlist_site_KLDR_be
+n8b-report.starix-dr.gamora.prod legion_n8b_report_site_KLDR_be
+n8g-report.starix-dr.gamora.prod legion_n8g_report_site_KLDR_be
+n88-report.starix-dr.gamora.prod legion_n88_report_site_KLDR_be
+n88-api.starix-dr.gamora.prod n88_api_KLDR_be
+n88sc.byb6181.com n88_system_configuration_KLDR_be
