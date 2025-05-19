@@ -1,3 +1,4 @@
+^/V4(/.*)?$ legion_lap_betlist_api_UAT_4_path_be
 ^/v3(/.*)?$ legion_lap_betlist_api_UAT_3_path_be
 ^/v2(/.*)?$ legion_lap_betlist_api_UAT_2_path_be
 ^/v1(/.*)?$ legion_lap_betlist_api_UAT_1_path_be
