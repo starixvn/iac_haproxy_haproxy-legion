@@ -33,3 +33,11 @@ n88-api.starix-dr.gamora.prod n88_api_KLDR_be
 n88sc.byb6181.com n88_system_configuration_KLDR_be
 n88.byb6181.com n88_admin_KLDR_be
 aff12b-cronjobs.byb6181.com legion_12b_cronjobs_v2_KLDR_be
+aff12b-admin.byb6181.com aff_12b_admin_KLDR_be
+aff12b-user.byb6181.com aff_12b_user_KLDR_be
+aff12b-banner.byb6181.com aff_12b_banner_KLDR_be
+aff12b-go.byb6181.com aff_12b_go_KLDR_be
+affn88-admin.byb6181.com aff_n88_admin_KLDR_be
+affn88-user.byb6181.com aff_n88_user_KLDR_be
+affn88-banner.byb6181.com aff_n88_banner_KLDR_be
+affn88-go.byb6181.com n88_go_KLDR_be
