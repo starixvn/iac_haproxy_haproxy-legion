@@ -1,3 +1,4 @@
+aff-extb2c-klp.starixplay.com legion_n88_ext_KLPROD_be
 affnv-cronjobs-klp.starixplay.com legion_nv_cronjobs_KLPROD_be
 pa-klp.byb6181.com legion_lap_player_admin_KLPROD_be
 lap-report-klp.byb6181.com legion_lap_report_client_app_KLPROD_be
@@ -5,7 +6,6 @@ lap-report.starix-klprod.gamora.prod legion_lap_report_client_app_KLPROD_be
 lap-report-api.starix-klprod.gamora.prod legion_lap_report_api_KLPROD_be
 laapi.starix-klprod.gamora.prod legion_la_gamingplatformapi_KLPROD_be
 aff12b-cronjobs-klp.byb6181.com legion_12b_cronjobs_v2_KLPROD_be
-aff-extb2c-klp.byb6181.com legion_n88_ext_KLPROD_be
 lap-identityserver.starix-klprod.gamora.prod legion_lap_identity_server_KLPROD_be
 lap-betlist-api.starix-klprod.gamora.prod legion_lap_betlist_api_KLPROD_be
 #
