@@ -103,9 +103,13 @@ n88-report.starix-klprod.gamora.prod legion_n88_report_KLPROD_be
 n88-betlist.starix-klprod.gamora.prod legion_n88_betlist_KLPROD_be
 n88-api.starix-klprod.gamora.prod legion_n88_api_KLPROD_be
 n88sc-klp.starixplay.com legion_n88_system_configuration_KLPROD_be
+bo.nova88.net legion_n88_admin_KLPROD_be
+n88sc.oneops.net legion_n88_system_configuration_KLPROD_be
 #N8B
-n8b-report.starix-klprod.gamora.prod legion_n8b_report_KLPROD_be 
+n8b-report.starix-klprod.gamora.prod legion_n8b_report_KLPROD_be
 n8b-betlist.starix-klprod.gamora.prod legion_n8b_betlist_KLPROD_be
+bo.bwing.com legion_n8b_admin_KLPROD_be
 #N8G
 n8g-report.starix-klprod.gamora.prod legion_n8g_report_KLPROD_be
 n8g-betlist.starix-klprod.gamora.prod legion_n8g_betlist_KLPROD_be
+bo.goal123.com legion_n8g_admin_KLPROD_be
