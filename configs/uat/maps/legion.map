@@ -1,3 +1,5 @@
+lbs1.kl.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
+lbs.kl.starixuat.com legion_la_licenseebillingsystem_UAT_be
 laapi.starixuat.com legion_la_gamingplatformapi_UAT_be
 laapi.starix-uat.nebula.prod legion_la_gamingplatformapi_UAT_be
 lap-report3.starixuat.com legion_lap_report_client_app_UAT_3_be
@@ -27,7 +29,6 @@ lapext.starixuat.com legion_lap_ext_UAT_be
 lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
 lap-report-api2-uat.nebula.prod legion_lap_report_api_UAT_2_be
-lbs1.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
 #####Legion
 lapanalytics1.starixuat.com legion_lap_analytics_api_UAT_1_be
 lapext1.starixuat.com legion_lap_ext_UAT_1_be
@@ -37,7 +38,6 @@ lappa1.starixuat.com legion_lap_player_admin_UAT_1_be
 lapbt1.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
 lapbt.starixuat.com legion_lap_bet_ticket_UAT_be
-lbs.starixuat.com legion_la_licenseebillingsystem_UAT_be
 lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
 lapcronjobs1.starixuat.com legion_lap_cron_jobs_UAT_1_be
 #Legion Internal
