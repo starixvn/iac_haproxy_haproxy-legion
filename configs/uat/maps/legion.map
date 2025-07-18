@@ -1,3 +1,5 @@
+lap-bt1.kl.starixuat.com legion_lap_bet_ticket_UAT_1_be
+lap-bt.kl.starixuat.com legion_lap_bet_ticket_UAT_be
 lap-report1.kl.starixuat.com legion_lap_report_client_app_UAT_1_be
 lap-report1.st-kluat.gamora.prod legion_lap_report_client_app_UAT_1_be
 lap-report.kl.starixuat.com legion_lap_report_client_app_UAT_be
@@ -9,7 +11,6 @@ lap-identityserver1.st-kluat.gamora.prod legion_lap_identity_server_UAT_1_be
 lap-identityserver.st-kluat.gamora.prod legion_lap_identity_server_UAT_be
 lap-report-api1.st-kluat.gamora.prod legion_lap_report_api_UAT_1_be
 lap-report-api.st-kluat.gamora.prod legion_lap_report_api_UAT_be
-lap-bt.kl.starixuat.com legion_lap_bet_ticket_UAT_be
 lbs1.kl.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
 lbs.kl.starixuat.com legion_la_licenseebillingsystem_UAT_be
 laapi.starixuat.com legion_la_gamingplatformapi_UAT_be
@@ -39,7 +40,6 @@ lapext1.starixuat.com legion_lap_ext_UAT_1_be
 lapext2.starixuat.com legion_lap_ext_UAT_2_be
 lapext3.starixuat.com legion_lap_ext_UAT_3_be
 lappa1.starixuat.com legion_lap_player_admin_UAT_1_be
-lapbt1.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
 lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
 lapcronjobs1.starixuat.com legion_lap_cron_jobs_UAT_1_be
