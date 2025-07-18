@@ -1,3 +1,5 @@
+lap-analytics1.kl.starixuat.com legion_lap_analytics_api_UAT_1_be
+lap-analytics.kl.starixuat.com legion_lap_analytics_api_UAT_be
 lap-ext3.kl.starixuat.com legion_lap_ext_UAT_3_be
 lap-ext2.kl.starixuat.com legion_lap_ext_UAT_2_be
 lap-ext1.kl.starixuat.com legion_lap_ext_UAT_1_be
@@ -35,12 +37,10 @@ lappa2.starixuat.com legion_lap_player_admin_UAT_2_be
 ext12b.starixuat.com legion_12b_ext_api_gateway_UAT_be
 12bapi.starixuat.com legion_12b_int_api_service_UAT_be
 yb-cronjobs.starixuat.com legion_aff_yb_cronjob_UAT_be
-analyticslap.starixuat.com legion_lap_analytics_api_UAT_be
 lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
 lap-report-api2-uat.nebula.prod legion_lap_report_api_UAT_2_be
 #####Legion
-lapanalytics1.starixuat.com legion_lap_analytics_api_UAT_1_be
 lappa1.starixuat.com legion_lap_player_admin_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
 lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
@@ -54,4 +54,3 @@ lap_lg_api.starixuat.com LAP_LGAPI_be
 n88api.starixuat.com N88_API_be
 ####SabaDemo for Auditing
 lappa.saba-gli.com legion_lap_player_admin_UAT_be
-analyticslap.saba-gli.com legion_lap_analytics_api_UAT_be
