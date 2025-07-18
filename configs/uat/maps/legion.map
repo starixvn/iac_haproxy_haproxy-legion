@@ -1,3 +1,7 @@
+lap-report1.kl.starixuat.com legion_lap_report_client_app_UAT_1_be
+lap-report1.st-kluat.gamora.prod legion_lap_report_client_app_UAT_1_be
+lap-report.kl.starixuat.com legion_lap_report_client_app_UAT_be
+lap-report.st-kluat.gamora.prod legion_lap_report_client_app_UAT_be
 lap-betlist-api1.st-kluat.gamora.prod legion_lap_betlist_api_UAT_1_be
 lap-betlist-api.st-kluat.gamora.prod legion_lap_betlist_api_UAT_be
 lap-identityserver2.st-kluat.gamora.prod legion_lap_identity_server_UAT_2_be
@@ -25,10 +29,6 @@ ext12b.starixuat.com legion_12b_ext_api_gateway_UAT_be
 12bapi.starixuat.com legion_12b_int_api_service_UAT_be
 yb-cronjobs.starixuat.com legion_aff_yb_cronjob_UAT_be
 analyticslap.starixuat.com legion_lap_analytics_api_UAT_be
-lap-report1.starixuat.com legion_lap_report_client_app_UAT_1_be
-lap-report1-int-uat.nebula.prod legion_lap_report_client_app_UAT_1_be
-lap-report.starixuat.com legion_lap_report_client_app_UAT_be
-lap-report-int-uat.nebula.prod legion_lap_report_client_app_UAT_be
 lapext.starixuat.com legion_lap_ext_UAT_be
 lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
@@ -54,4 +54,3 @@ n88api.starixuat.com N88_API_be
 lappa.saba-gli.com legion_lap_player_admin_UAT_be
 analyticslap.saba-gli.com legion_lap_analytics_api_UAT_be
 lapext.saba-gli.com legion_lap_ext_UAT_be
-lap-report.saba-gli.com legion_lap_report_client_app_UAT_be
