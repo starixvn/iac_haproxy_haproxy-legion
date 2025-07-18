@@ -1,3 +1,5 @@
+lap-bt3.kl.starixuat.com legion_lap_bet_ticket_UAT_3_be
+lap-bt2.kl.starixuat.com legion_lap_bet_ticket_UAT_2_be
 lap-bt1.kl.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lap-bt.kl.starixuat.com legion_lap_bet_ticket_UAT_be
 lap-report1.kl.starixuat.com legion_lap_report_client_app_UAT_1_be
@@ -22,9 +24,7 @@ vn-lap-report2-int-uat.nebula.prod legion_lap_report_client_app_UAT_2_be
 12b-cronjobs.starixuat.com legion_12b_cronjobs_v2_UAT_be
 extb2c.starixuat.com legion_n88_ext_UAT_be
 intb2c-uat.nebula.prod legion_n88_ext_UAT_be
-lapbt3.starixuat.com legion_lap_bet_ticket_UAT_3_be
 lappa2.starixuat.com legion_lap_player_admin_UAT_2_be
-lapbt2.starixuat.com legion_lap_bet_ticket_UAT_2_be
 12bauth.starixuat.com legion_12b_int_api_auth_UAT_be
 ext12b.starixuat.com legion_12b_ext_api_gateway_UAT_be
 12bapi.starixuat.com legion_12b_int_api_service_UAT_be
