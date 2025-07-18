@@ -1,3 +1,4 @@
+lap-bt.kl.starixuat.com legion_lap_bet_ticket_UAT_be
 lap-report-api.st-kluat.gamora.prod legion_lap_report_api_UAT_be
 lap-betlist-api.st-kluat.gamora.prod legion_lap_betlist_api_UAT_be
 lap-identityserver.st-kluat.gamora.prod legion_lap_identity_server_UAT_be
@@ -38,7 +39,6 @@ lapext3.starixuat.com legion_lap_ext_UAT_3_be
 lappa1.starixuat.com legion_lap_player_admin_UAT_1_be
 lapbt1.starixuat.com legion_lap_bet_ticket_UAT_1_be
 lappa.starixuat.com legion_lap_player_admin_UAT_be
-lapbt.starixuat.com legion_lap_bet_ticket_UAT_be
 lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
 lapcronjobs1.starixuat.com legion_lap_cron_jobs_UAT_1_be
 #Legion Internal
@@ -54,5 +54,4 @@ n88api.starixuat.com N88_API_be
 lappa.saba-gli.com legion_lap_player_admin_UAT_be
 analyticslap.saba-gli.com legion_lap_analytics_api_UAT_be
 lapext.saba-gli.com legion_lap_ext_UAT_be
-lapbt.saba-gli.com legion_lap_bet_ticket_UAT_be
 lap-report.saba-gli.com legion_lap_report_client_app_UAT_be
