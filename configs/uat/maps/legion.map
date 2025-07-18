@@ -1,10 +1,11 @@
+lap-betlist-api1.st-kluat.gamora.prod legion_lap_betlist_api_UAT_1_be
+lap-betlist-api.st-kluat.gamora.prod legion_lap_betlist_api_UAT_be
 lap-identityserver2.st-kluat.gamora.prod legion_lap_identity_server_UAT_2_be
 lap-identityserver1.st-kluat.gamora.prod legion_lap_identity_server_UAT_1_be
 lap-identityserver.st-kluat.gamora.prod legion_lap_identity_server_UAT_be
 lap-report-api1.st-kluat.gamora.prod legion_lap_report_api_UAT_1_be
 lap-report-api.st-kluat.gamora.prod legion_lap_report_api_UAT_be
 lap-bt.kl.starixuat.com legion_lap_bet_ticket_UAT_be
-lap-betlist-api.st-kluat.gamora.prod legion_lap_betlist_api_UAT_be
 lbs1.kl.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
 lbs.kl.starixuat.com legion_la_licenseebillingsystem_UAT_be
 laapi.starixuat.com legion_la_gamingplatformapi_UAT_be
