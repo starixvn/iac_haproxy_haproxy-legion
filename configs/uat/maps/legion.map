@@ -1,3 +1,5 @@
+lapcronjobs1.starixuat.com legion_lap_cron_jobs_UAT_1_be
+lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
 lap-common-api1.st-kluat.gamora.prod legion_lap_common_api_UAT_1_be
 lap-common-api.st-kluat.gamora.prod legion_lap_common_api_UAT_be
 lap-pa2.kl.starixuat.com legion_lap_player_admin_UAT_2_be
@@ -39,8 +41,6 @@ lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
 lap-report-api2-uat.nebula.prod legion_lap_report_api_UAT_2_be
 #####Legion
-lapcronjobs.starixuat.com legion_lap_cron_jobs_UAT_be
-lapcronjobs1.starixuat.com legion_lap_cron_jobs_UAT_1_be
 #Legion Internal
 int_lap_logging.starixuat.com LAP_LOGGING_be
 #int_lap_lg.starixuat.com LAP_LGAPI_be
