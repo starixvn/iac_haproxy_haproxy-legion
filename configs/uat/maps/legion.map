@@ -109,3 +109,7 @@ affmacaubet-admin.kl.starixuat.com legion_aff_macaubet_admin_UAT_be
 affmacaubet-user.kl.starixuat.com legion_aff_macaubet_user_UAT_be
 affmacaubet-banner.kl.starixuat.com legion_aff_macaubet_banner_UAT_be
 affmacaubet-go.kl.starixuat.com legion_aff_macaubet_go_UAT_be
+#NAP
+oic-api.st-kluat.gamora.prod legion_oic_api_UAT_be
+lm.kl.starixuat.com legion_lm_UAT_be
+oic.kl.starixuat.com legion_oic_UAT_be
