@@ -1,3 +1,5 @@
+lap-report2.kl.starixuat.com legion_lap_report_client_app_UAT_2_be
+lap-report2.st-kluat.gamora.prod legion_lap_report_client_app_UAT_2_be
 lap-report-api2.st-kluat.gamora.prod legion_lap_report_api_UAT_2_be
 lap-pa.kl.starixuat.com legion_lap_player_admin_UAT_be
 lap-pa.saba-gli.com legion_lap_player_admin_UAT_be
@@ -36,8 +38,6 @@ lbs1.kl.starixuat.com legion_la_licenseebillingsystem_UAT_1_be
 lbs.kl.starixuat.com legion_la_licenseebillingsystem_UAT_be
 lap-report3.starixuat.com legion_lap_report_client_app_UAT_3_be
 vn-lap-report3-int-uat.nebula.prod legion_lap_report_client_app_UAT_3_be
-lap-report2.starixuat.com legion_lap_report_client_app_UAT_2_be
-vn-lap-report2-int-uat.nebula.prod legion_lap_report_client_app_UAT_2_be
 extb2c.starixuat.com legion_n88_ext_UAT_be
 lap-report-api4-uat.nebula.prod legion_lap_report_api_UAT_4_be
 lap-report-api3-uat.nebula.prod legion_lap_report_api_UAT_3_be
