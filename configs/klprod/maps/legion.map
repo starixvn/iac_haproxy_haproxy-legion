@@ -46,6 +46,8 @@ goto.12binlink4.com legion_aff_12b_go_KLPROD_be
 goto.12binlink3.com legion_aff_12b_go_KLPROD_be
 goto.12binlink2.com legion_aff_12b_go_KLPROD_be
 goto.12binlink1.com legion_aff_12b_go_KLPROD_be
+goto.12vtwo.com legion_aff_12b_go_KLPROD_be
+aff12b-go-klp.starixplay.com legion_aff_12b_go_KLPROD_be
 lap-common-api.starix-klprod.gamora.prod legion_lap_common_api_KLPROD_be
 lbs-klp.starixplay.com legion_la_licenseebillingsystem_KLPROD_be
 lbs.oneops.net legion_la_licenseebillingsystem_KLPROD_be
@@ -104,7 +106,6 @@ lm.oneops.net legion_nap_lm_KLPROD_be
 aff12b-admin-klp.starixplay.com legion_aff_12b_admin_KLPROD_be
 aff12b-user-klp.starixplay.com legion_aff_12b_user_KLPROD_be
 aff12b-banner-klp.starixplay.com legion_aff_12b_banner_KLPROD_be
-aff12b-go-klp.starixplay.com legion_aff_12b_go_KLPROD_be
 #AFF N88
 affn88-admin-klp.starixplay.com legion_aff_n88_admin_KLPROD_be
 affn88-user-klp.starixplay.com legion_aff_n88_user_KLPROD_be
