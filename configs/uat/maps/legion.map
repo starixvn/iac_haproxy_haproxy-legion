@@ -1,3 +1,4 @@
+laapi.st-kluat.gamora.prod legion_la_gamingplatformapi_UAT_be
 landing.uatasia.com legion_aff_12b_landingpage_UAT_be
 goto.uatasia.com legion_aff_12b_landingpage_UAT_be
 landing3.uatasia.com legion_aff_12b_landingpage_consumer_UAT_be
@@ -9,7 +10,6 @@ lap-pa.kl.starixuat.com legion_lap_player_admin_UAT_be
 lap-pa.saba-gli.com legion_lap_player_admin_UAT_be
 lap-analytics.kl.starixuat.com legion_lap_analytics_api_UAT_be
 lap-analytics.saba-gli.com legion_lap_analytics_api_UAT_be
-laapi.kl.starixuat.com legion_la_gamingplatformapi_UAT_be
 lapcronjobs1.kl.starixuat.com legion_lap_cron_jobs_UAT_1_be
 lapcronjobs.kl.starixuat.com legion_lap_cron_jobs_UAT_be
 lap-common-api1.st-kluat.gamora.prod legion_lap_common_api_UAT_1_be
