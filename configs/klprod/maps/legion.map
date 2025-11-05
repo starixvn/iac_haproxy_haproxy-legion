@@ -1,3 +1,4 @@
+12b-cronjobs.klc.oneops.net legion_12b_cronjobs_v2_KLPROD_be
 goto.1234rst.com legion_aff_12b_go_KLPROD_be
 goto.12998877.com legion_aff_12b_go_KLPROD_be
 goto.12amber.com legion_aff_12b_go_KLPROD_be
@@ -904,10 +905,8 @@ vn-dep-api-gw.starix-klprod.gamora.prod legion_licensee_deposit_api_gateway_KLPR
 vn-dep-api-gw.amazzu.com legion_licensee_deposit_api_gateway_KLPROD_be
 deposit-api-gw.oneops.net legion_licensee_deposit_api_gateway_KLPROD_be
 laapi.starix-klprod.gamora.prod legion_la_gamingplatformapi_KLPROD_be
-aff12b-cronjobs-klp.starixplay.com legion_12b_cronjobs_v2_KLPROD_be
 aff-extb2c-klp.starixplay.com legion_n88_ext_KLPROD_be
 affnv-cronjobs-klp.starixplay.com legion_nv_cronjobs_KLPROD_be
-12b-cronjobs.oneops.net legion_12b_cronjobs_v2_KLPROD_be
 extb2c.amazzu.com legion_n88_ext_KLPROD_be
 nv-cronjobs.oneops.net legion_nv_cronjobs_KLPROD_be
 lap-report-api.starix-klprod.gamora.prod legion_lap_report_api_KLPROD_be
